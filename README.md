@@ -1,2 +1,2 @@
 # ICPC-Notebook
-ICPC Notebook
+Repository for competitive programming contests
